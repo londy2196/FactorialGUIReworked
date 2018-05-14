@@ -88,7 +88,7 @@ public class ApplicationWindow extends JFrame {
 			e.printStackTrace();
 		}
 		this.setIconImage(tbIcon);
-			
+		
 	}
 	
 	// GETTERS
